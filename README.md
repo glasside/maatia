@@ -14,6 +14,11 @@ Este microservicio proporciona una API REST para consultar información de país
 - encoding/json
 - Echo
 
+
+## Nota
+
+Recuerda que debes de tener descargado el proyecto https://github.com/glasside/maatiafrontend.git y corriendo
+
 ## ⚙️ Instalación
 
 ```bash
